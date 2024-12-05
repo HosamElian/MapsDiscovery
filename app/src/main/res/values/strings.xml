@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MapsDiscovery</string>
+    <string name="don_t_have_account_sign_up">don\'t have account sign up</string>
+    <string name="login">Login</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="map_discovery_app">Map Discovery App</string>
+    <string name="please_confirm_you_password">Please Confirm you Password</string>
+    <string name="have_account_login">have account ? login</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
